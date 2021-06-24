@@ -81,13 +81,13 @@ WSGI_APPLICATION = 'trivecars.wsgi.application'
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
 #DATABASES = {
-    #'default': {
-    #    'ENGINE': 'django.db.backends.postgresql',
-    #    'NAME': 'trivecars',
-    #    'USER': 'postgres',
-    #    'PASSWORD': 'tristan',
-    #    'Host': 'localhost'
-    #}
+#    'default': {
+#        'ENGINE': 'django.db.backends.postgresql',
+#        'NAME': 'trivecars',
+#        'USER': 'postgres',
+#        'PASSWORD': 'tristan',
+#        'Host': 'localhost'
+#    }
 #}
 
 DATABASES = {
@@ -155,4 +155,4 @@ EMAIL_HOST= 'smtp.gmail.com'
 EMAIL_PORT=587
 EMAIL_USE_TLS=True
 EMAIL_HOST_USER='tj.virtudazo@gmail.com'
-EMAIL_HOST_PASSWORD='garena12343'
+EMAIL_HOST_PASSWORD='babsnako12343'
